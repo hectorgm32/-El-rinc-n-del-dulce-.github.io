@@ -1,0 +1,67 @@
+﻿<html>
+
+<head>
+	<title>¡El rincón del dulce!&#128523 </title>
+	<link rel ="stylesheet" href="D:\B H 2 B\T.I.C\carpeta\estilos.css"
+	<meta name="author" content="Héctor González"/>
+	<meta name="description" content="Cocina"/><br>
+	<style> p { color: orange; } </style>
+</head>
+<body>
+<h1 style="font-family:Times News Roman;"><h1 style="font-size:280%;"><font color="red">&#127852¡EL RINCÓN DEL DULCE!&#127852</h1>
+<h2 style="font-family:Consolas;"><font color="orange">-----Introducción-----</h2>
+<p><font color="black">¡Hola!, soy Héctor y en este pequeño rincon os voy a ilustrar acerca de uno de mis mayores hobbies que es la <em>cocina.</em></p><br>
+<h2 style="font-family:Consolas;"><font color="orange">-----Recetas principales-----</h2>
+<p><font color="black">Este espacio lo voy a dedicar principalmente a enseñaros una de mis mayores habilidades - <strong><mark>LOS DULCES!</mark></strong>, del inglés <spam lang="en">SWEETS</spam>, los cuales voy a dividir en dos grupos: los dulces tradicionales y las tartas.</p>
+<img src="descarga.jpg"><br>
+<hr>
+<h3 style="font-family:Consolas;"><font color="grenge">---Dulces Tradicionales---</h3>
+<p><font color="black"><!--- En este apartado voy a hablaros de los 2 dulces tradicionales que mas he probado y realizado a lo largo de toda mi vida, y que por supuesto me la han marcado. Son aquellos dulces que nos preparaban nuestras abuelas y madres cuando estabamos en épocas de fiestas o cuando necesitábamos llevarnos algo dulce a la boca.--->Estos son mis preferidos :)</p><br>
+<h4 style="font-family:Consolas;"><font color="purple">--Arroz con leche--</h4>
+<img src="images.jpg"><br>
+<pre><font color="purple">Ingredientes para hacer arroz con leche </pre>
+<p><font color="black">1 lt de leche</p>
+<p><font color="black">100 gr de azúcar</p>
+<p><font color="black">1 limón</p>
+<p><font color="black">1 canela en rama</p>
+<p><font color="black">100 gr de mantequilla</p>
+<p><font color="black">canela en polvo para<sup>decorar</sup></p><br>
+<p style="font-family:Consolas;"><font color="purple">--PREPARACIÓN--</p>
+<p><font color="black">Pon un cazo al fuego con los 100 ml de agua y cuando comienze a hervir añade el arroz.Déjalo cocer hasta que se evapore el agua, y al hacerlo añade la leche infusionada con la canela y el limon.Déjalo cocer hasta que el arroz esté perfectamente cocinado, a un fuego muy lento.Cuando le queden 10 minutos añade la mantquilla y el azucar, y dejalo terminar el tiempo restante.Al terminar déjalo reposar 10 minutos y ya está listo para servir.Al gusto lo puedes decorar con un poco de canela molida</p><br>
+<h4 style="font-family:Consolas;"><font color="purple">--Natillas--</h4>
+<img src="nt.jpg"><br>
+<p style="font-family:Consolas;"><font color="purple">--INGREDIENTES--</p>
+<p><font color="black">800 ml de leche</p>
+<p><font color="black">1 piel de limón</p>
+<p><font color="black">1 piel de naranja</p>
+<p><font color="black">80<sub>gr</sub>de azúcar</p>
+<p><font color="black">Un chorrito al gusto de esencia de vainilla</p>
+<p><font color="black">3 huevos (enteros)</p>
+<p class="inciso"><font color="black">200 ml de leche +</p>
+<p><font color="black">3 cdas. de maicena</p>
+<p><font color="black">1 cda. de mantequilla</p>
+<p><font color="black"><small>1 pizquita de sal</small></p><br>
+<p style="font-family:Consolas;"><font color="purple">--PREPARACIÓN--</p>
+<p><font color="black">Pon a cocer los 800 ml de leche en un cazo con la piel de limón, la de naranja,los 80 gr de azúcar y un chorrito al gusto de esencia de vainilla. En un bowl casca los huevos e incorpora a ellos los 200 ml de leche restantes mezclados con la maicena.Añade esta mezcla a la del cazo sin dejar de remover, con un fuego medio/bajo. Cuando las natillas hayan expesado, fuera del fuego, añade la cuchara de mantequilla y la sal. Dejalas reposar 1 noche en el frigo para que consigan una mejor consistencia, y ya estaran listas para tomar. </p>
+<A HREF="otra_pagina.html">https://www.youtube.com/watch?v=MQ8s1LAwHtY</A><p lang="en">(This link shows a video with different recipes of custard)</p><br>
+<hr>
+<h3 style="font-family:Consolas;"><font color="grenge">---Tartas---</h3>
+<p><font color="black">En este apartado voy a hablaros acerca de mi tarta favorita, la cual he estado haciendo desde que me aficioné a la cocina y fue la que me introdujo en este mundo: ¡¡ LA TARTA DE QUESO :) !!</p><br>
+<h4 style="font-family:Consolas;"><font color="purple">--Tarta de queso--</h4>
+<img src="tarta.jpg"><br>
+<p style="font-family:Consolas;"><font color="purple">--INGREDIENTES--</p>
+<p><font color="black">25 galletas maría</p>
+<p><font color="black">60 gr de mantequilla</p>
+<p><font color="black">500 gr de nata líquida para montar<b>(35% materia grasa)</b></p>
+<p><font color="black">100 gr de azúcar</p>
+<p><font color="black">8 hojas de gelatina</p>
+<p><font color="black">500 gr de queso de untar<i>(Philadelphia)</i></p>
+<p><font color="black">Mermelada de fresa para decorar por encima</p>
+<p><font color="black">Un poco de leche</p>
+<p><font color="black">Un chorrito de esencia de vainilla</p><br>
+<p style="font-family:Consolas;"><font color="purple">--PREPARACIÓN--</p>
+<p><font color="black">En primer lugar vamos a hacer la base de galletas.En una trituradora echa las galletas partidas en trozos y los 100 gr de mantequilla derretida.Trituralo hasta conseguir una textura como de arena e incorporalo a un molde redondo desmontable, aplanándolo contra la base.</p>
+<p><font color="black">Por otro lado vamos a hacer el relleno de queso de la tarta. En un cuenquito vamos a hidratar las hojas de gelatina con un poco de agua fria. En una olla apta para el fuego vamos a incorporar el queso crema, la nata para montar, el azúcar y el chorrito de vainilla. Llevamos la olla al fuego, removiendo constantemente hasta que se incorporen todos los ingredientes. Una vez retirada del mismo incorporamos las hojas de gelatina escurridas y añadimos la mezcla de queso al molde de la tarta. Despues dejamos reposar la tarta en el frigo una hora para que se atempere y al terminar la decoramos con la mermelada de fresa mezclada con dos hojas de gelatina excurridas. A partir de aqui la dejamos reposar un dia entero en el frigo y apartir de ahi ya está lista para consumir. 
+</body>
+
+</html>
